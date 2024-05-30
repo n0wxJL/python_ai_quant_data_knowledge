@@ -1,4 +1,5 @@
 # python_ai_quant_data_knowledge
+### I wish the knowledge could help solve the portfolio issue.
 
 ---
 # 1. Python library that adds Generative AI capabilities to Pandas
